@@ -29,8 +29,8 @@ The following screenshot shows the completed settings for the **Basics** tab. No
       
 # Configure the networking options
 
-1. Click the **Next: Networking >** button to move to the **Networking** tab, or select the **Networking** tab at the top of the screen.
-2. Set the **Connectivity** method option to Public endpoint (all networks). This option allows you to isolate the storage account on an Azure virtual network. We want to use public Internet access. Our content is public facing and you need to allow access from public clients.
+- Click the **Next: Networking >** button to move to the **Networking** tab, or select the **Networking** tab at the top of the screen.
+- Set the **Connectivity** method option to Public endpoint (all networks). This option allows you to isolate the storage account on an Azure virtual network. We want to use public Internet access. Our content is public facing and you need to allow access from public clients.
 
 <img src="images/str3.jpg"/><br/>
 
